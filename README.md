@@ -79,5 +79,3 @@ This project focuses on analyzing customer churn behavior using an interactive P
 - **Electronic check** payment method has highest churn
 
 ---
-
-## 📂 Project Structure
