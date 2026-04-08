@@ -59,16 +59,16 @@ This project focuses on analyzing customer churn behavior using an interactive P
 ## 📸 Dashboard Preview
 
 ### 🔹 Demographics
-![Demographics](images/demographics.png)
+![Demographics](Customer_Churn_Analysis/DemoGraphics.png)
 
 ### 🔹 Service Subscription
-![Service](images/service.png)
+![Service](Customer_Churn_Analysis/ServiceSubscription.png)
 
 ### 🔹 Contract & Billing
-![Contract](images/contract.png)
+![Contract](Customer_Churn_Analysis/Contract&Billing.png)
 
 ### 🔹 Churn Drivers
-![Churn Drivers](images/churn_drivers.png)
+![Churn Drivers](Customer_Churn_Analysis/ChurnDrivers.png)
 
 ---
 
